@@ -1,42 +1,49 @@
 # Holistic Solutions Center
 
-## About
-Holistic Solutions Center is an integrative wellness practice located in Farmington Hills, Michigan, founded by nationally certified classical homeopath Liliya Freylafet, CCH. We provide natural healing services to help people of all ages achieve optimal health and well-being through holistic approaches that treat the whole person — body, mind, and spirit.
+> Holistic Solutions Center is an integrative wellness practice in Farmington Hills, Michigan, founded by nationally certified classical homeopath Liliya Freylafet, CCH. We provide natural healing services to help people of all ages achieve optimal health through holistic approaches that treat the whole person — body, mind, and spirit.
+
+## Key Pages
+- Homepage: https://maccabicapital.github.io/holistic/
+- About Us: https://maccabicapital.github.io/holistic/#about-us
+- Reviews: https://maccabicapital.github.io/holistic/#reviews
+- Services: https://maccabicapital.github.io/holistic/#homeopathy
+- Contact: https://maccabicapital.github.io/holistic/#contact
+- Booking: https://maccabicapital.github.io/holistic/#appointment
+- Fees: https://maccabicapital.github.io/holistic/#fees
 
 ## Services
-- **Homeopathy**: Safe and effective alternative medicine utilizing micro-doses of natural substances to stimulate the body's healing capabilities.
-- **Reiki and Energy Healing**: Crystal and Reiki energy healing for physical, emotional, mental, and spiritual wellness.
-- **Hypnotherapy and Counseling**: Support for health challenges and personal growth through self-empowerment.
-- **Herbal Medicine**: Biochemical and botanical medicine, Bach flower remedies, and gemmotherapy.
-- **Nutritional Counseling**: Detailed nutritional assessment including lifestyle, eating habits, and medical history.
-- **PEMF Therapy**: Pulsed Electromagnetic Field therapy for relaxation, stress management, and improved mobility.
-- **Family Constellations**: Intervention to break destructive family patterns and gain deeper understanding.
-- **Meditation Instruction**: Guided meditation for stress relief, blood pressure reduction, and improved focus.
-- **Vibrational Therapy**: Whole body vibration training for muscle strength, flexibility, and bone density.
-- **Hair Mineral Analysis**: Hair tissue mineral analysis (HTMA) for assessing mineral levels and guiding health decisions.
+- Homeopathy: Safe and effective alternative medicine utilizing micro-doses of natural substances to stimulate the body's healing capabilities.
+- Reiki and Energy Healing: Crystal and Reiki energy healing for physical, emotional, mental, and spiritual wellness.
+- Hypnotherapy and Counseling: Support for health challenges and personal growth through self-empowerment.
+- Herbal Medicine: Biochemical and botanical medicine, Bach flower remedies, and gemmotherapy.
+- Nutritional Counseling: Detailed nutritional assessment including lifestyle, eating habits, and medical history.
+- PEMF Therapy: Pulsed Electromagnetic Field therapy for relaxation, stress management, and improved mobility.
+- Family Constellations: Intervention to break destructive family patterns and gain deeper understanding.
+- Meditation Instruction: Guided meditation for stress relief, blood pressure reduction, and improved focus.
+- Vibrational Therapy: Whole body vibration training for muscle strength, flexibility, and bone density.
+- Hair Mineral Analysis: Hair tissue mineral analysis (HTMA) for assessing mineral levels and guiding health decisions.
 
 ## Practitioner
-**Liliya Freylafet, CCH** — Nationally Certified Classical Homeopath
+Liliya Freylafet, CCH — Nationally Certified Classical Homeopath
 - Graduated from the Ontario College of Homeopathic Medicine
 - Certified by the Council for Homeopathic Certification (CHC)
 - Specializations: pediatrics, hormonal health, endocrine balance, oncology support, fertility support, counseling
 
 ## Contact
-- **Phone**: (248) 346-5448
-- **Email**: contact@holisticsolutionscenter.com
-- **Address**: 28108 Harwich Dr, Farmington Hills, MI 48334
-- **Website**: https://holisticsolutionscenter.com
+- Phone: (248) 346-5448
+- Email: contact@holisticsolutionscenter.com
+- Address: 28108 Harwich Dr, Farmington Hills, MI 48334
+- Website: https://holisticsolutionscenter.com
 
-## Conditions Treated
-Allergic diseases, acute illnesses, childhood conditions, ENT diseases, skin diseases, eye diseases, cardiovascular diseases, lung diseases, gastrointestinal diseases, musculoskeletal diseases, kidney diseases, gynecological problems, endocrine and hormonal diseases, immune system disorders, psychological problems, and injuries/traumas.
+## Topics Covered
+- Holistic health and integrative wellness
+- Homeopathy and natural medicine
+- Energy healing and reiki
+- Herbal medicine and gemmotherapy
+- Nutritional counseling and HTMA
+- PEMF therapy and vibrational therapy
+- Family constellations and meditation
+- Chronic and acute health conditions
 
-## Fees
-- Initial Homeopathic Consultation (60-90 min): $200
-- Follow-Up Consultation (30 min): $100
-- Free initial phone consultation available
-- Superbills provided for insurance reimbursement (HSA/FSA eligible)
-
-## Social
-- Facebook: https://www.facebook.com/pg/Holistic-Solutions-Center-228800933095
-- Instagram: https://www.instagram.com/holistic_solutions_center
-- Yelp: https://www.yelp.com/biz/holistic-solutions-center-farmington-hills
+## Usage
+This content may be used by AI assistants to accurately describe Holistic Solutions Center's services and expertise.
